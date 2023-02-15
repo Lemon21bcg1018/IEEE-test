@@ -202,7 +202,7 @@ header{
 }
 
 .header-right img{
-    width: 100%;
+    display: none;
 }
 
 .header-left h1
